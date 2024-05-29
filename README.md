@@ -31,4 +31,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 
 ## Autor
 
-Criado por <a href="https://github.com/CaioCunha10" target="blank">Caio Cunha</a>.
+Criado por <a href="https://github.com/CaioCunha10" target="_blank">Caio Cunha</a>.
